@@ -1,0 +1,16 @@
+{
+  "name": "scrapingweb",
+  "version": "1.0.0",
+  "description": "web crawl and scrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ronak",
+  "license": "ISC",
+  "dependencies": {
+    "debug-log": "^1.0.0",
+    "cheerio": "latest",
+    "request": "latest"
+  }
+}
