@@ -14,4 +14,4 @@ app.use('/webscrapeservices', require(__dirname+'/Script/homepage'));
 
 app.listen(port);
 
-console.log('scraping is running on port ' + port);
+console.log('server running on port ' + port);
